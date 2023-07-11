@@ -1,0 +1,60 @@
+/* banner style */
+.flo{
+    color: rgb(225, 66, 66);
+}
+.ban{
+    height: 800px;
+    font-weight: 635px;
+    image-orientation: ;
+
+}
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: bisque;
+}
+.fls{
+    border: 0px;
+    border-radius: 10px;
+    background-color: rgb(225, 66, 66);
+}
+.inside{
+    padding: 30px 20px 10px 40px;
+    
+}
+/* section styles */
+.sales-up{
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(236, 210, 210);
+}
+.insta {
+margin: 20px;
+padding: 50px 50px 50px 50px;
+background-color: antiquewhite;
+
+}
+.sec-flower{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.last{
+    
+    justify-content: center;
+    padding: 50px 50px;
+    
+    display: flex;
+}
+.finished{
+    color:rgb(225, 66, 66) ;
+}
+.foot{
+    display: flex;
+    padding: 50px 50px;
+    background-color: rgba(0, 0, 0, 0.136);
+    justify-content: center;
+}
